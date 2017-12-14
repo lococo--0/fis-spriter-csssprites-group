@@ -1,6 +1,6 @@
 {
-  "name": "fis-spriter-csssprites-group",
-  "version": "0.3.23",
+  "name": "fis3-spriter-csssprites-group",
+  "version": "0.4.0",
   "description": "基于fis的csssprite，支持分组合并图片，@media处理，合并路径指定",
   "main": "index.js",
   "directories": {
@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mudoo/fis-spriter-csssprites-group.git"
+    "url": "https://github.com/lococo--0/fis3-spriter-csssprites-group"
   },
   "dependencies": {
-    "images": "3.0.0"
+    "images": "3.0.1"
   },
   "keywords": [
     "fis",
@@ -27,7 +27,7 @@
     "jpeg",
     "gif"
   ],
-  "author": "mudoo <mudoo@qq.com>",
+  "author": "lococo <lococo.exe@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mudoo/fis-spriter-csssprites-group/issues"
